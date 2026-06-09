@@ -29,7 +29,7 @@ AVS+ Player 专为解决这些问题而生！原生集成全系列国产音视�
 ---
 
 ## 🖥️ 平台支持
-- ✅ Windows 10/11 (64位)
+
 - ✅ macOS 12+ (Intel/Apple Silicon 通用 dmg)
 - ✅ Ubuntu 22.04+ (64位)
 
